@@ -1,5 +1,5 @@
 # Segmentation-Loss-Keras
-This repository contains implementations of segmentation losses 
+This repository contains tensorflow / keras implementations of segmentation losses 
 
 1-Boundary loss:paper https://arxiv.org/abs/1812.07032 
   based on the original implementation https://github.com/LIVIAETS/boundary-loss/blob/master/keras_loss.py
